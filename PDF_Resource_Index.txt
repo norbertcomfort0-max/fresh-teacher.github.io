@@ -172,12 +172,5 @@ This is a curated, de-duplicated list of the most useful PDF resources from the 
 ------------------------------------------------------------
 END OF LIST
 ------------------------------------------------------------
-Notes:
-- This is a curated index for quick access; many additional PDFs exist in the same repositories.
-- Where file names contain special characters, the URLs are encoded for direct download.
-- For full browsing, use the repo pages here:
-  - https://github.com/norbertcomfort0-max/p3-notes
-  - https://github.com/norbertcomfort0-max/s1-notes
-  - https://github.com/norbertcomfort0-max/s4-notes
-  - https://github.com/norbertcomfort0-max/s4-past-papers
-  - https://github.com/norbertcomfort0-max/fresh-teacher.github.io
+
+- 
