@@ -1,0 +1,183 @@
+Fresh-Teacher PDF Resource Index
+
+This is a curated, de-duplicated list of the most useful PDF resources from the selected repositories:
+- norbertcomfort0-max/p3-notes
+- norbertcomfort0-max/s1-notes
+- norbertcomfort0-max/s4-notes
+- norbertcomfort0-max/s4-past-papers
+- norbertcomfort0-max/fresh-teacher.github.io
+
+------------------------------------------------------------
+1) NOTES FOR PRIMARY/LOWER CLASSES
+------------------------------------------------------------
+1. P.3 English Lesson Notes Term 1-3
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20ENGLISH%20LESSON%20NOTES%20TERM%201-3.pdf
+
+2. P.3 Mathematics All Terms
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20Mathematics%20%20All%20Terms.pdf
+
+3. P.3 Literacy One Notes Term 1-3
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20LITERACY%20ONE%20A%20TERM%20I%202021.pdf
+
+4. P.3 Science Lesson Notes Term 1-3
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20SCIENCE%20LESSON%20NOTES%20TERM%20I%20%20TERM%20%20II%20%26%20III.pdf
+
+5. P.3 R.E. Notes for All Terms
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20R.E%20notes%20for%20ALL%20TERMS.pdf
+
+6. P.3 SST Lesson Notes
+   https://raw.githubusercontent.com/norbertcomfort0-max/p3-notes/main/P.3%20SST%20lesson%20notes.pdf
+
+7. S.1 Math Notes
+   https://raw.githubusercontent.com/norbertcomfort0-max/s1-notes/main/S.1%20MATH%20NOTES.pdf
+
+8. S.1 Biology Notes
+   https://raw.githubusercontent.com/norbertcomfort0-max/s1-notes/main/S.1%20BIOLOGY%20NOTES.pdf
+
+9. S.1 Geography Notes
+   https://raw.githubusercontent.com/norbertcomfort0-max/s1-notes/main/S.1%20GEOGRAPHY%20NOTES.pdf
+
+10. S.1 Computer Studies Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s1-notes/main/S.1%20COMPUTER%20STUDIES%20NOTES.pdf
+
+11. Senior One Guide Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s1-notes/main/Senior%20one%20Guide%20Notes.pdf
+
+------------------------------------------------------------
+2) NOTES FOR SENIOR FOUR / O-LEVEL / ALL SUBJECTS
+------------------------------------------------------------
+12. O Level Biology Complete Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/0%20LEVEL%20BIOLOGY%20COMPLETE%20NOTE.pdf
+
+13. O Level Biology Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/0%20LEVEL%20BIOLOGY%20NOTES.pdf
+
+14. Chemistry Form 1-4 Notes Booklet
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/CHEMISTRY%20FORM%201-4%20NOTES%20BOOKLET.pdf
+
+15. Chemistry Notes O Level
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/CHEMISTRY%20NOTES%20O%20LEVEL.pdf
+
+16. Physics All Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/All%20Physics%20Notes.pdf
+
+17. Geography Paper One Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/GEOGRAPHY%20PAPER%201%20%20NOTES.pdf
+
+18. Geography of East Africa Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/GEOGRAPHY%20OF%20EAST%20AFRICA%20NOTES.pdf
+
+19. English Paper One Notes for S.4
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/ENGLISH%20PAPER%20ONE%20FOR%20S.4%20NOTES.pdf
+
+20. History Notes East Africa (S1-S4)
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/HISTORY%20NOTES%20EAST%20AFRICA(S1-S4).pdf
+
+21. Christian Religious Education O Level Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/CRE-O-LEVEL%20NOTES.pdf
+
+22. Islamic Religious Education Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/IRE%20Paper%201%20NOTES.pdf
+
+23. Agriculture Notes Form 1-4 Booklet
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/AGRICULTURE%20NOTES%20FORM%201-4%20BOOKLET.pdf
+
+24. Computer Full Notes
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-notes/main/COMPUTER%20FULL%20NOTES.pdf
+
+------------------------------------------------------------
+3) UNEB OFFICIAL / MAJOR EXAM PAPERS
+------------------------------------------------------------
+25. 2023 UCE UNEB Biology Paper 3
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/2023%20UCE%20UNEB%20553_3.pdf
+
+26. 2023 UNEB English Paper
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/2023%20UNEB%20ENGLISH.pdf
+
+27. 2023 UCE Biology 2
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/2023%20UCE%20phy%201.pdf
+
+28. UNEB Biology Sample Paper (New Curriculum 2024)
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/5532%263%20BIOLOGY%20UNEB%20Sample%20Paper%20New%20Curriculum%202024%20plus%20Scoring%20Guide.pdf
+
+29. UNEB History Sample Paper (New Curriculum 2024)
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/2411%20History%20And%20Political%20Education%20%20UNEB%20Sample%20Paper%20New%20Curriculum%202024%20plus%20Scoring%20Guide.pdf
+
+30. UNEB Geography Sample Paper (New Curriculum 2024)
+    https://raw.githubusercontent.com/norbertcomfort0-max/s4-past-papers/main/2731%20Geography%20UNEB%20Sample%20Paper%20New%20Curriculum%202024%20plus%20Scoring%20Guide.pdf
+
+31. UNEB English Paper 1 (UNEB archive sample)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/English%20UNEB%20PAPER%201%202020.pdf
+
+32. UNEB English Paper 2 (UNEB archive sample)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/English%20UNEB%20PAPER%202%202009.pdf
+
+33. UNEB Biology Paper 1 (UNEB archive sample)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/BIOLOGY%20PAPER%201%20UNEB%202022%20GUIDE_062454.pdf
+
+34. UNEB Physics Paper 1 (UNEB archive sample)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/535-1%20UCE%20Phy%201%20%20UNEB%202020.pdf
+
+35. UNEB Physics Paper 2 (UNEB archive sample)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/535-2%20UCE%20Phy%202%20UNEB%202020.pdf
+
+36. UNEB Geography Paper 1 archive sample
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/GEOG%201%20RESOURCE%202022..pdf
+
+------------------------------------------------------------
+4) OTHER PAST PAPERS / MOCKS / TERM TESTS
+------------------------------------------------------------
+37. 2022 PLE Science Past Paper
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/2022%20-%20PRE-PLE%20SERIES%2022%20SCI.pdf
+
+38. 2020 PLE English Paper
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/2020%20PLE%20ENG.pdf
+
+39. 2020 UCE Geography Marking Guide
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/2020%20UCE%20GEOG%201%20Marking%20Guide.pdf
+
+40. F4 Mock Series 1 Exams (2020)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/2020%20F4%20MOCK%20SERIES%201%20EXAMS%20-%20TOP%20EXAMINERS.pdf
+
+41. 2020 Series 2 F4 Mock Exams
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/2020%20SERIES%202%20F4%20MOCK%20EXAMS.pdf
+
+42. Biology Mock Exams Term II 2019
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/BIOLOGY%20MOCK%20EXAMS%20TERM%20II%202019.pdf
+
+43. Chemistry Pre-UNEB Set 2 (2022)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/CHEMISTRY%20Pre-UNEB%20%20Set%202%202022.pdf
+
+44. English Pre-PLE Set 2 (2022)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/ENGLISH%20PRE-PLE%20SET%202%20-2022.pdf
+
+45. DECO/DEC Mock Science Set 2 (2022)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/DEC%20SCI%20PRE%20PLE%202022%20SET%202.pdf
+
+46. DEC Mock SST Set 2 (2022)
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/DEC%20SST%20PRE%20PLE%20SET%202%202022.pdf
+
+47. Chemistry S.3 End of Term 2 2019
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/CHEMISTRY%20S.3%20P.1%20END%20OF%20TERM%202%202019.pdf
+
+48. Agriculture Paper 2
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/AGRIC%20PAPER%202.pdf
+
+49. Business/Commerce Past Papers and Mock Packs
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/Commerce%20pp%201.pdf
+
+50. Biology Full Revision Pack
+    https://raw.githubusercontent.com/norbertcomfort0-max/fresh-teacher.github.io/main/BIOLOGY%20FULL%20REVISION.pdf
+
+------------------------------------------------------------
+END OF LIST
+------------------------------------------------------------
+Notes:
+- This is a curated index for quick access; many additional PDFs exist in the same repositories.
+- Where file names contain special characters, the URLs are encoded for direct download.
+- For full browsing, use the repo pages here:
+  - https://github.com/norbertcomfort0-max/p3-notes
+  - https://github.com/norbertcomfort0-max/s1-notes
+  - https://github.com/norbertcomfort0-max/s4-notes
+  - https://github.com/norbertcomfort0-max/s4-past-papers
+  - https://github.com/norbertcomfort0-max/fresh-teacher.github.io
